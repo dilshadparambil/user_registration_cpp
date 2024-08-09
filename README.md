@@ -1,5 +1,5 @@
 # user_registration_cpp
-a program to take users input and use it to signup or login.
+a program to take users input and use it to signup or login.<br />
 user is given a menu with 4 choices.
 1)login
 2)signup
